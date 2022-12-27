@@ -1,0 +1,16 @@
+{
+	"name": "common-packages",
+	"version": "0.0.0",
+	"description": "Rules & Configs for Common Packages",
+	"license": "UNLICENSED",
+	"private": true,
+	"workspaces": [
+		"packages/*"
+	],
+	"scripts": {
+		"publish-packages": "changeset publish"
+	},
+	"dependencies": {
+		"@changesets/cli": "^2.26.0"
+	}
+}
