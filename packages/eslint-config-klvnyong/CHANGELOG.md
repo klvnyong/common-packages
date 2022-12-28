@@ -1,5 +1,11 @@
 # eslint-config-klvnyong
 
+## 1.0.2
+
+### Patch Changes
+
+- Fixed ESLint React Settings
+
 ## 1.0.1
 
 ### Patch Changes

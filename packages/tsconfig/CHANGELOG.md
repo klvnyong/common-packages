@@ -1,5 +1,11 @@
 # @klvnyong/tsconfig
 
+## 1.0.2
+
+### Patch Changes
+
+- Version Bump
+
 ## 1.0.1
 
 ### Patch Changes
